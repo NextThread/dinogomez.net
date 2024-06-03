@@ -65,7 +65,7 @@ export const Config = {
 
     {
       name: "Blackbird.AI",
-      role: "Sofware Engineer Intern",
+      role: "Software Engineer Intern",
       yearX: "2021",
       yearY: "2022",
       setup: "Remote",
@@ -89,7 +89,7 @@ export const Config = {
       name: "OpenImage",
       user: "NextThread",
       repo: "openimage",
-      url: "https://www.openimage.vercel/",
+      url: "https://imagecompro.netlify.app",
       desc: "An open-source web application for bulk image compression. ",
       tags: ["Next.js", "Compression", "Image-Processing", "React"],
       stars: 0,

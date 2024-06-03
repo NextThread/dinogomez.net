@@ -13,9 +13,9 @@ import BreadCrumb from "./_components/section-breadcrumb";
 import { headers } from "next/headers";
 
 export const metadata: Metadata = {
-  title: "Paul Gomez",
+  title: "Anurag Roy",
   description:
-    "Hello, I'm Paul, an experience Full Stack Engineer specialzing in web development with NextJS and TypeScript. I tinker around making tools for other various fields like Image Optimization, Syntax Analysis and Highlighting and Task Automation and Testing.",
+    "Hello, I'm Anurag, an experienced immersed in software and web development. My passion lies in crafting open-source applications, solutions and tools, while collaborating with different developers around the world.",
   icons: {
     icon: "/favicon.ico",
   },

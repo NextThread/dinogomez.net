@@ -7,7 +7,7 @@ function About() {
     <section className="flex flex-col gap-4">
       <h3 className="text-sm">About</h3>{" "}
       <p className="font-light text-sm dark:text-zinc-500 text-primary/80 text-justify">
-        Hello, I'm Paul, an experienced{" "}
+        Hello, I'm Anurag, an experienced{" "}
         <span className="dark:text-white  text-primary font-medium">
           Full Stack Engineer
         </span>{" "}
@@ -18,10 +18,10 @@ function About() {
       <p className="font-light text-sm dark:text-zinc-500  text-primary/80  text-justify">
         I'm currently in the{" "}
         <span className="dark:text-white  text-primary font-medium">
-          Philippines
+          Agartala
         </span>
-        , working remotely in projects involving TypeScript, Next.js, React, C#,
-        and Python. With over {getYearsOfExperience(Config.yearStart)} years of experience, I've worked closely with
+        , working remotely in projects involving TypeScript, JavasScript, Node.js, React,
+        and Go. With over {getYearsOfExperience(Config.yearStart)} years of experience, I've worked closely with
         companies locally and remotely with different teams worldwide.
       </p>
     </section>

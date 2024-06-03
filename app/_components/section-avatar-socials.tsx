@@ -28,7 +28,7 @@ function AvatarSocials() {
   return (
     <div className="relative">
       {Config.openForWork ? ( <Link
-        href={`mailto:dinogomez.dev@gmail.com?subject=Job%20Opportunity%20or%20Project%20Collaboration&body=Dear%20Dino,%0D%0A`}
+        href={`mailto:anuragroy.dev@gmail.com?subject=Job%20Opportunity%20or%20Project%20Collaboration&body=Dear%20Dino,%0D%0A`}
       >
         <motion.img
           initial={{ scale: 0.6, y: 0 }}

@@ -39,6 +39,14 @@ export const Config = {
   ],
   Experience: [
     {
+      name: "Nautech Systems",
+      role: "Software Engineer",
+      yearX: "2024",
+      yearY: "Present",
+      setup: "Remote",
+      desc: "I am working on a key enhancement for our network client within the real-time communication domain by transitioning the synchronization mechanism to improve performance and efficiency.  Refactoring critical sections of the code to enhance synchronization between sender and receiver ends in real-time communication streams. Ensuring the new implementation was thoroughly tested and debugged. Collaborating with the team to integrate changes smoothly and ensure the reliability of the updated system in real-time operations.",
+    },
+    {
       name: "Github",
       role: "Open Source Developer",
       yearX: "2023",
